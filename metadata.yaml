@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/24926
     wikipedia: https://en.wikipedia.org/wiki/George_Washington_Williams
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21851#History-of-the-Negro-Race-in-America-from-1619-to-1880.-Vol.-2--13-Negroes-as-Slaves-as-Soldi_
 gutenberg_bookshelf: Slavery
 gutenberg_issued: '2007-06-18'
 gutenberg_type: Text
