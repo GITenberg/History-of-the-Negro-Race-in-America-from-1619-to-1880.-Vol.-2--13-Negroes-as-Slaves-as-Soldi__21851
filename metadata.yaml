@@ -1,0 +1,31 @@
+_repo: History-of-the-Negro-Race-in-America-from-1619-to-1880.-Vol.-2--13-Negroes-as-Slaves-as-Soldi__21851
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Williams, George Washington
+    birthdate: 1849
+    deathdate: 1891
+    gutenberg_agent_id: '24926'
+    url: http://www.gutenberg.org/2009/agents/24926
+    wikipedia: https://en.wikipedia.org/wiki/George_Washington_Williams
+description: ''
+gutenberg_bookshelf: Slavery
+gutenberg_issued: '2007-06-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21851'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sierra Leone'
+- !lcsh 'Liberia'
+- !lcc 'E151'
+- !lcsh 'African Americans -- History'
+title: "History of the Negro Race in America from 1619 to 1880. Vol. 2\r\nNegroes\
+  \ as Slaves, as Soldiers, and as Citizens"
+url: http://www.gutenberg.org/ebooks/21851
